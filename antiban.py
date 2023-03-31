@@ -21,3 +21,5 @@ updater.dispatcher.add_handler(telegram.ext.MessageHandler(telegram.ext.Filters.
 
 # Start the bot
 updater.start_polling()
+
+FREE
