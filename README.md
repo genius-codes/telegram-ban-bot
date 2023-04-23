@@ -41,3 +41,6 @@ IF YOU ARE NEW TO PYTHON OR YOU NEED A BETA VERSION FOR NON CODERS
 MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
 USE TECHNICALLY
+
+# KEYWORDS 
+how to protect my telegram channel how to secure my telegram channel how to protect my telegram group telegram anti-ban tool
