@@ -1,46 +1,66 @@
-# telegram-antiban-bot
-A SIMPLE AND FREE VERSION
-
-MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
+# telegram-channel-ban
+FREE SAMPLE VERSION
 
 
-![antib](https://user-images.githubusercontent.com/125784563/225214245-ff68b6cd-e9bc-4620-95af-530adfd564f1.png)
+MESSAGE FOR GUIDE > https://t.me/+r4q42DHGePA5ZTJk
+
+![tgreport](https://user-images.githubusercontent.com/125784563/221641878-8e9cdb9a-a212-4704-8d40-1f65b3540106.png)
 
 
-THIS IS A FREE ANTIBAN SCRIPT TO PROTECT YOUR TELEGRAM CHANNEL OR GROUP
+THIS IS A FREE PYTHON SCRIPT FOR TELEGRAM BANNING
 
-IF YOU NEED THE BETA VERSION
+BANNING TELEGRAM CHANNELS AND GROUPS
+
+IF YOU HAVE A DEAL RELATED TO TELEGRAM 
 
 MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
 # USAGE
 
-> BOT FROM @BOTFATHER
+MODIFY THIS SCRIPT AND INPUT THE FOLLOWING
+> BOT API KEY
+
+> CHANNEL NAME
 
 > API HASH
 
 > API ID
 
 
-YOU NEED OTHER TOOLS?
+THESE ARE JUST THE TWO THINGS YOU NEED IN THE MODIFICATION OF THIS PYTHON SCRIPT FOR REPORTING TELEGRAM CHANNELS
+
+FEEL FREE TO MESSAGE ME FOR A FREE GUIDE
 
 MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
 
-INPUT THESE DETAILS IN THE ANTIBAN SCRIPT AND RUN THE SCRIPT
+# LEGAL DISCLAIMER
 
-> python antiban.py
+THIS TOOL SHOULD ONLY BE USED FOR A LEGITIMATE PURPOSE!
 
-# NOTE 
-YOU MUST ADD THE BOT TO YOUR CHANNEL OR GROUP BEFORE YOU RUN THE SCRIPT
 
-YOU MUST MAKE THE BOT YOU CREATED FROM BOTFATHER AS ADMIN IN YOUR CHANNEL OR GROUP
+# KEYWORDS
 
-IF YOU ARE NEW TO PYTHON OR YOU NEED A BETA VERSION FOR NON CODERS
-
-MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
-
-USE TECHNICALLY
-
-# KEYWORDS 
-how to protect my telegram channel how to secure my telegram channel how to protect my telegram group telegram anti-ban tool
+how to ban a telegram channnel 
+how to mass report telegram channel
+how to delete a telegram channel
+tool for banning telegram channels
+how to ban telegram channels
+best tool for banning telegram channels
+download telegeram channel banning tool
+telegram channel ban
+ban telegram channnel
+channel ban telegram
+telegram mass report tool
+can i ban a telegram channel
+how to ban a telegram group
+how to ban telegram groups
+telegram banning tool
+telegram report tool
+how to mass report telegram channel
+how to mass report telegram groups
+how to ban a telegram account
+best tool for banning telegram groups
+is there how to ban a telegram channel
+ways to ban a telegram channel
+how to report telegram channel to be banned
