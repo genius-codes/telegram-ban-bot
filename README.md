@@ -1,8 +1,10 @@
 # telegram-channel-ban
-FREE SAMPLE VERSION
+FREE SIMGLE AUTO REPORT VERSION
 
 
-MESSAGE FOR GUIDE > https://t.me/+r4q42DHGePA5ZTJk
+FOR BULK AUTO REPORT TOOL OR GIG 
+
+MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
 ![tgreport](https://user-images.githubusercontent.com/125784563/221641878-8e9cdb9a-a212-4704-8d40-1f65b3540106.png)
 
